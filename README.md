@@ -8,7 +8,7 @@
 - 📊 Career changer building toward a **Data Analyst** role in the UK
 - 🎓 BSc (Hons) Computer Science, University of West London
 - 📜 IBM Data Analytics Professional Certificate | Microsoft Power BI Data Analyst
-- 🔍 I turn raw datasets into business insight — SQL for the questions, Python for the cleaning, Power BI for the story
+- 🔍 I turn raw datasets into business insight: SQL for the questions, Python for the cleaning, Power BI for the story
 - 🏗️ Currently building end-to-end portfolio projects: data cleaning → SQL analysis → interactive dashboards
 - 📍 Based in London, UK
 
